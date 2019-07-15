@@ -6,8 +6,7 @@ public class Driver {
 
     private int age;
 
-    public Driver(int age) {
-        this.age = age;
+    public Driver() {
     }
 
     public void setAge(int age) {
